@@ -27,6 +27,4 @@ router.get("/random", async (request, response) => {
 // Since we must tell the app instance to load up routers
 
 module.exports = router;
-// module.exports = {
-//    router
-// }
+// module.exports = {router}
